@@ -89,8 +89,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Chethan-044/Chethan-044/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ###
 
 <div>
