@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I’m passionate about web development, particularly working with the MERN stack to build responsive and scalable applications. I’m always eager to learn new technologies, improve my skills, and turn ideas into meaningful digital experiences</p>
+<p align="center">I’m passionate about web development, particularly working with the MERN stack to build responsive and scalable applications. I’m always eager to learn new technologies, improve my skills, and turn ideas into meaningful digital experiences.</p>
 
 ###
 
